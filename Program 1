@@ -1,0 +1,12 @@
+/*C program to print string using printf()*/
+
+#include <stdio.h>
+
+int main(){
+	
+	char name[]="PARMINDER";
+	
+	printf("name is %s.\n",name);
+	
+	return 0;
+}
